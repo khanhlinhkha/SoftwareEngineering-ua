@@ -4,7 +4,7 @@ This repository contains files of the last individual Java assignment - Assignme
 
 ## Course Focus
 
-While Java is used as the primary programming language, the true focus of the course lies in **designing and building large-scale, complex software systems** using core principles of software architecture, engineering patterns, and modular development.
+While Java is used as the primary programming language, the true focus of the course lies in **designing and building large-scale, complex software systems** using core principles of software architecture, engineering patterns, object-oriented programming and modular development.
 
 ## Sample Included
 
