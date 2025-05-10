@@ -1,6 +1,6 @@
 # Software Engineering and Architecture – Assignment Collection (2023–2024)
 
-This repository contains all **12 individual assignments** completed as part of the **Software Engineering and Architecture** course at the **University of Antwerp**, supervised by Prof. Dr. Herwig Mannaert, Dr. Gilles Oorts, and Dr. Philip Huymans.
+This repository contains all **12 individual assignments** completed as part of the **Software Engineering and Architecture** course at the **University of Antwerp**.
 
 ## Course Focus
 
